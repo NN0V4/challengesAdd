@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/challenges/css/main.eed3c2ba.css",
+    "main.js": "/static/challenges/js/main.88867d65.js",
+    "static/challenges/media/filter.png": "/static/challenges/media/filter.bafa797c3e5477f1627c.png",
+    "static/challenges/media/submit.png": "/static/challenges/media/submit.6bb7c5f3ae797144e861.png",
+    "static/challenges/media/email.png": "/static/challenges/media/email.4170674a67752e7790d3.png",
+    "static/challenges/media/amongus.png": "/static/challenges/media/amongus.f91ad06c315da2fbc797.png",
+    "static/challenges/media/logo.png": "/static/challenges/media/logo.0b73d6243bf1fd498ded.png",
+    "static/challenges/media/background.jpg": "/static/challenges/media/background.5677290c5c8e670e3ab6.jpg",
+    "static/challenges/media/dis.png": "/static/challenges/media/dis.876cfb17009422341e5a.png",
+    "index.html": "/index.html",
+    "main.eed3c2ba.css.map": "/static/challenges/css/main.eed3c2ba.css.map",
+    "main.88867d65.js.map": "/static/challenges/js/main.88867d65.js.map"
+  },
+  "entrypoints": [
+    "static/challenges/css/main.eed3c2ba.css",
+    "static/challenges/js/main.88867d65.js"
+  ]
+}

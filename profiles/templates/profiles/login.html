@@ -1,0 +1,21 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="csrf-token" content="{{ csrf_token }}">
+
+    <link rel="icon" href="{% static 'favicon.ico' %}" />
+    
+    <title>CTFzone</title>
+    <script>
+      const signupUrl = "{% url 'signup' %}";  
+  </script>
+    <script defer="defer" src="/static/login/js/main.aed277d9.js"></script>
+    <link href="/static/login/css/main.21f746ce.css" rel="stylesheet" />
+  </head>
+  <body>
+    <noscript></noscript>
+    <div id="root"></div>
+  </body>
+</html>
